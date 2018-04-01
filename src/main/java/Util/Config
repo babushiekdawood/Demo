@@ -1,0 +1,4 @@
+browser=chrome
+Url=https://www.trustnet.com
+Url1=https://qa.trustnet.com
+waittime=10
