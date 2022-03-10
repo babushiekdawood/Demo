@@ -20,6 +20,7 @@ public class Fundsearchpageaction extends Fundsearchpageobjects {
         try {
             Sync.angularwait();
            // Element.Verify(driver,Fundsearchpagetitle);
+            //e
             Element.Verify(driver,Fundsearchpagetitle);
             fundsearchpagetitle = true;
         } catch (Exception e) {
